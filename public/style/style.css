@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 15px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.container{
+    border: 2px solid black;
+}
+
+.center form{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+.center .result{
+    width: 40%;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+.center h6{
+    text-align: center;
+}
+
+button{
+    margin: 5px;
+    background-color: rgb(97, 97, 250);
+    border-radius: 10px;
+    padding: 5px;
+}
+
